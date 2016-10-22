@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul>li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+/*导航头部*/
+header{
+    background: url(../images/2-list_bg.jpg) repeat-x;
+}
+header ul li{
+    display: inline-block;
+}
